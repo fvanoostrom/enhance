@@ -1,6 +1,6 @@
 # Custom gitignore
-# output/
-# data/
+output/
+data/
 # Default python gitignore:
 # Byte-compiled / optimized / DLL files
 __pycache__/
